@@ -1,6 +1,8 @@
 # Finoramic_assignment
-Section 1: Data Structures 
+Section 1: Data Structures
+
     Three Questions given as follows:
+    
         1) Three_Sum (Q1_ThreeSum.py)               
         2) Redundant Braces (Q2_Redundant.py)           
         3) Anagrams (Q3_Anagram.py)             
