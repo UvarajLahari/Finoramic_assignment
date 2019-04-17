@@ -9,7 +9,7 @@ Section 1: Data Structures
         2) Redundant Braces (Q2_Redundant.py)           
         3) Anagrams (Q3_Anagram.py)             
     
-Second 2: Linux
+Section 2: Linux
 
 
     Download and install python packages.(install_dep.py)
