@@ -1,4 +1,5 @@
 # Finoramic_assignment
+*All the main functions are commented in the codes.
 Section 1: Data Structures
 
     Three Questions given as follows:
